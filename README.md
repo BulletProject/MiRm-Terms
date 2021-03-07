@@ -14,7 +14,8 @@
   [https://www.minecraft.net/ja-jp/terms/r3/](https://www.minecraft.net/ja-jp/terms/r3/)
   
 ## 1. 定義
-- __サーバー__ 当運営が貸与している、ユーザーのMinecraft用サーバーのことをいいます。
+- __サーバー__ 当運営が貸与している、ユーザーのMinecraft用サーバーのことを言います。
+- __ユーザー__ 当サービスを利用した主体のことを言います。
 
 
 ## 2. 規約への同意
